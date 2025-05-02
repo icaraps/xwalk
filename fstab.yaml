@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://7c47-102-115-46-27.ngrok-free.app/bin/franklin.delivery/icaraps/xwalk/main"
+    url: "https://author-p154810-e1635300.adobeaemcloud.com/bin/franklin.delivery/icaraps/xwalk/main"
     type: "markup"
     suffix: ".html"
